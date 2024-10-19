@@ -3,7 +3,7 @@ using namespace std;
 
 int calculator();
 int calculator(){
-	cout<<"\033[1;4;36mMy Calculator\033[0m\n\033[1;36m========================\033[0m\n "<<endl;
+	cout<<"\033[1;4;36m Calculator By Muhammad Abdullah \033[0m\n\033[1;36m========================\033[0m\n "<<endl;
 	cout<<"(1) Addition (+) Enter 1 \n";
 	cout<<"(2) Subtraction (-) Enter 2 \n";
 	cout<<"(3) Division (/) Enter 3 \n";
